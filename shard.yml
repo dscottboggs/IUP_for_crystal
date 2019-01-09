@@ -1,0 +1,13 @@
+name: IUP_for_crystal
+version: 0.1.0
+
+authors:
+  - Scott Boggs <scott@tams.tech>
+
+dependencies:
+  autobind:
+    github: j8r/crystal-autobind
+
+crystal: 0.27.0
+
+license: MIT
