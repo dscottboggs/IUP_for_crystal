@@ -1,4 +1,8 @@
 module IUP
+  @[Link("X11")]
+  @[Link("gtk+-2.0")]
+  @[Link("gdk-2.0")]
+  @[Link("iup")]
   lib LibIUP
     IUP_NAME           = "IUP - Portable User Interface"
     IUP_DESCRIPTION    = "Multi-platform Toolkit for Building Graphical User Interfaces"
