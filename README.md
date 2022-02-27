@@ -1,32 +1,27 @@
-# IUP_for_crystal
+# IUP for Crystal 💎
 
-TODO: Write a description here
+This is just bindings to libiup. I forgot I wrote it. I don't know if it works. There might have been a reason why I stopped working on it. There might not have been.
 
 ## Installation
 
 1. Add the dependency to your `shard.yml`:
 ```yaml
 dependencies:
-  IUP_for_crystal:
-    github: your-github-user/IUP_for_crystal
+  IUP:
+    github: dscottboggs/IUP_for_crystal
 ```
 2. Run `shards install`
 
 ## Usage
 
 ```crystal
-require "IUP_for_crystal"
+require "IUP"
 ```
-
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+See the examples directory for usage samples.
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/IUP_for_crystal/fork>)
+1. Fork it (<https://github.com/dscottboggs/IUP_for_crystal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -34,4 +29,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [scott](https://github.com/your-github-user) - creator and maintainer
+- [scott](https://github.com/dscottboggs) - creator and maintainer
